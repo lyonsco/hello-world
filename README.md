@@ -1,2 +1,2 @@
 # hello-world
-I am realtively new to programming and just getting acquainted with GitHub!
+I am relatively new to programming and am just getting acquainted with GitHub!
