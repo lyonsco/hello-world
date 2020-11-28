@@ -1,2 +1,2 @@
 # hello-world
-This is my Hello World project repository
+I am realtively new to programming and just getting acquainted with GitHub!
